@@ -56,7 +56,7 @@ To use this repository as a template for your own workshop or personal practice,
 
 4. **Start Prompt Engineering**:
    - Open the codebase in your preferred code editor.
-   - Use AI tools (like GitHub Copilot or ChatGPT) to practice prompt engineering:
+   - Use AI tools (like GitHub Copilot or Cursor) to practice prompt engineering:
      - Improve code quality
      - Extend the functionality
      - Learn about and explore the codebase
