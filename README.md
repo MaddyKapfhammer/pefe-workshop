@@ -1,6 +1,6 @@
 # Prompt Engineering for Engineers - Collaborative Prompting Workshop
 
-This repository contains example codebases used in the **Prompt Engineering for Engineers Workshop**. Each codebase is designed to give hands-on practice with applying prompts to real-world coding tasks using AI tools like GitHub Copilot or ChatGPT.
+This repository contains example codebases used in the **Prompt Engineering for Engineers Workshop**. Each codebase is designed to give hands-on practice with applying prompts to real-world coding tasks using AI tools like GitHub Copilot or Gemini.
 
 ## 📚 Workshop Overview
 
