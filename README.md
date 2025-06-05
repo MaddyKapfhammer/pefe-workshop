@@ -10,14 +10,17 @@ Participants in this workshop have already completed the *Prompt Engineering for
 
 ### 1. Deep Code Quality Analysis
 _Refactor and document a performance-critical function_
+
 **Scenario:** You’re working with a legacy codebase that filters and aggregates user analytics. It is inefficient and hard to read. Use AI to help you improve this codebase for clarity, maintainability or readability
 
 ### 2. Extend a Codebase Thoughtfully
 _Add new features and improve test coverage_
+
 **Scenario:** The given codebase lacks observability, and you're tasked with implementing structured logging and test cases for each function, including edge cases
 
 ### 3. Reverse Engineer an Unknown Codebase
 _Understand a new module and propose a refactor plan_
+
 **Scenario:** You've inherited a billing module written by a previous team. It's undocumented and business-critical
 
 ## Workshop Sections
